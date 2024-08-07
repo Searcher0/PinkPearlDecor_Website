@@ -1,0 +1,8 @@
+flask 
+flask_sqlalchemy 
+flask-bcrypt 
+flask-jwt-extended
+datetime
+logging
+sqlalchemy.exc
+functools
